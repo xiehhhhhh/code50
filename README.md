@@ -3,7 +3,7 @@ package ktvdg;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Scanner;
-  
+   
 public class ktvdg {
     private static ArrayList<String> songList = new ArrayList<>();
     private static LinkedList<String> currentSongOrder = new LinkedList<>();
